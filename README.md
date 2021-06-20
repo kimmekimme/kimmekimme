@@ -1,8 +1,8 @@
 
 <!-- heading -->
-# Yeseong Kim
-## hi there,
-I'm a Yeseong Kim who want to be Web Backedend developer.
+# ``Yeseong Kim``
+## ✋Hi there
+I'm a Yeseong Kim who want to be a web backedend developer.
 
 <!--line-->
 ---
