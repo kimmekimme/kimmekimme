@@ -14,7 +14,7 @@ I'm Yeseong Kim who want to be a web backedend developer.
 <!--text attributes-->
 
 <!--bullet list-->
-#### *Language*:
+#### *Main Language*:
 - Java
 - Python
 
@@ -23,6 +23,8 @@ I'm Yeseong Kim who want to be a web backedend developer.
 - Spring
 - MySQL
 - MongoDB
+- Docker
+- AWS
 
 #### *Project*:
 <!--link-->
