@@ -17,15 +17,15 @@ I'm Yeseong Kim who is BackEnd developer.
 #### *Stack*:
 
 - Spring
-- MySQL
+- Spring Boot
+- Oracle
 - MongoDB
 - Java
 - Python
-- JSP
+- Docker
+- Linux
 
 #### *Project*:
-<!--link-->
-Click [](링크)
 
 ```java
 Console.log("Hello! I'm a Yeseong Kim")
